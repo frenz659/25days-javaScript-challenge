@@ -4,6 +4,9 @@
 
 Welcome to the Weather App, a mini project designed to provide users with a visually appealing way to check current weather conditions for any city. This application is developed using HTML, CSS, and JavaScript, utilizing the OpenWeatherMap API to fetch real-time weather data.
 
+![Capture](https://github.com/frenz659/25days-javaScript-challenge/assets/80036366/a21bed24-fcb7-47fe-85d6-a2f70393427f)
+
+
 ## Features 🚀
 
 - **Search Functionality 🔍:** Enter the name of a city to retrieve up-to-date weather information.
