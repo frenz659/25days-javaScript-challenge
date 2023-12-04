@@ -4,6 +4,7 @@
 
 Welcome to the Weather App, a mini project designed to provide users with a visually appealing way to check current weather conditions for any city. This application is developed using HTML, CSS, and JavaScript, utilizing the OpenWeatherMap API to fetch real-time weather data.
 
+## Demo 📸
 ![Capture](https://github.com/frenz659/25days-javaScript-challenge/assets/80036366/a21bed24-fcb7-47fe-85d6-a2f70393427f)
 
 
@@ -27,17 +28,9 @@ To run the Weather App locally, follow these steps:
 - **CSS:** Styling is implemented using an external CSS file (`style.css`) for enhanced visual appeal, layout, and icon integration.
 - **JavaScript:** The app logic, including API requests and data processing, is implemented in JavaScript for seamless interactivity.
 
-## Demo 📸
-
-Include screenshots or GIFs showcasing the app's interface and functionality.
-
 ## Contributing 🤝
 
 Contributions are welcome! Feel free to open issues or pull requests to improve the Weather App.
-
-## License 📄
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments 🙏
 
