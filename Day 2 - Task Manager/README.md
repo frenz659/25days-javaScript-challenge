@@ -1,5 +1,5 @@
 
-# To-Do List App 📝
+# Task Manager 📝
 
 A simple and stylish to-do list web application designed to help you organize and manage your tasks efficiently.
 
