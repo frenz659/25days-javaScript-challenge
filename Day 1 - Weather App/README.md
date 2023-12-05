@@ -36,5 +36,4 @@ Contributions are welcome! Feel free to open issues or pull requests to improve 
 
 - Thanks to OpenWeatherMap for providing the weather data API.
 
-Feel free to customize this README with additional information specific to your project!
 
