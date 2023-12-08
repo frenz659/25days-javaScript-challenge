@@ -3,7 +3,9 @@
 Welcome to Quiz Mania, a simple quiz application built with HTML, CSS, and JavaScript.
 
 ### Preview 
-![3](https://github.com/frenz659/25days-javaScript-challenge/assets/80036366/311b5818-64d6-4b61-92ea-8238d577a81a)
+![1](https://github.com/frenz659/25days-javaScript-challenge/assets/80036366/681ad5cc-39ca-4333-910e-66d9a3616d74)
+![2](https://github.com/frenz659/25days-javaScript-challenge/assets/80036366/b36584e0-1c26-4755-95c6-b3597b8bc992)
+![3](https://github.com/frenz659/25days-javaScript-challenge/assets/80036366/ffec06b5-1c8b-4aca-8b66-eae1859275e5)
 
 
 ### Features
@@ -17,21 +19,6 @@ Welcome to Quiz Mania, a simple quiz application built with HTML, CSS, and JavaS
 
 🔄 Play Again: Restart the quiz to challenge yourself again.
 
-### How to Use
-Clone the repository to your local machine.
-
-bash
-Copy code
-git clone https://github.com/your-username/quiz-mania.git
-Open the index.html file in your web browser.
-
-Start the quiz by clicking the "Next" button.
-
-Answer each question by selecting the correct option.
-
-Continue until you finish all the questions.
-
-View your final score and choose to play again.
 
 ### Code Overview
 script.js: JavaScript file containing the quiz logic.
