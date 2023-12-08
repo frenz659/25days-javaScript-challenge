@@ -20,12 +20,19 @@ Welcome to Quiz Mania, a simple quiz application built with HTML, CSS, and JavaS
 🔄 Play Again: Restart the quiz to challenge yourself again.
 
 
-### Code Overview
-script.js: JavaScript file containing the quiz logic.
-style.css: CSS file for styling the quiz interface.
-index.html: HTML file defining the structure of the quiz app.
-Development
-Feel free to contribute to the development of Quiz Mania by opening issues or submitting pull requests. Your feedback and suggestions are highly appreciated!
+## Technologies Used 🛠️
+
+- HTML
+- CSS
+- JavaScript
+
+## How to Contribute 🤝
+
+If you would like to contribute to the project, feel free to fork the repository and submit a pull request with your improvements. Bug reports, suggestions, and feedback are also welcome in the issues section.
+
+## Credits ❤️
+
+This project was created with ❤️ as a part of coding journey.
 
 
 Enjoy the Quiz Mania! 🚀
