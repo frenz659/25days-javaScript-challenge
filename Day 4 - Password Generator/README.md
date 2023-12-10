@@ -1,12 +1,12 @@
-##Password Picker
+## Password Picker
 Generate a random password with this simple password generator. Choose a combination of uppercase letters, lowercase letters, numbers, and symbols to create a secure and unique password.
 
-###🚀 Features
+### 🚀 Features
 Generate random passwords with a single click.
 Choose from a combination of uppercase letters, lowercase letters, numbers, and symbols.
 Copy generated passwords to the clipboard.
 
-###🖥️ Usage
+### 🖥️ Usage
 #Open the index.html file in your web browser.
 
 #Click on the "⚡ Generate Password" button to generate a random password.
