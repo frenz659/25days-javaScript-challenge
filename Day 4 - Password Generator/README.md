@@ -16,7 +16,8 @@ Copy generated passwords to the clipboard.
 ### Use the generated password for your accounts to enhance security.
 
 ## 📸 Preview
-Password Picker Preview :
+
+### Password Picker Preview :
 ![pp1](https://github.com/piyush4878/25days-javaScript-challenge/assets/80036366/7b1e1b05-0679-4377-8537-762ca9c9d804)
 ![pp2](https://github.com/piyush4878/25days-javaScript-challenge/assets/80036366/3b8e318d-f7fb-4bc5-81d3-6d2717dd27e6)
 
