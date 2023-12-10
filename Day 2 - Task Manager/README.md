@@ -44,4 +44,4 @@ If you would like to contribute to the project, feel free to fork the repository
 
 ## Credits ❤️
 
-This project was created with ❤️ as a part of coding journey.
+This project was created with ❤️ as a part my of coding journey.
