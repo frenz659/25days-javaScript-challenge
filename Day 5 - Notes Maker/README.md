@@ -23,11 +23,12 @@ JavaScript
 📄 script.js: JavaScript file for the notes functionality.
 📄 style.css: CSS file for styling.
 
-## Contributing
-If you'd like to contribute to this project, feel free to open an issue or submit a pull request.
+## Contributing 🤝
+Contributions are welcome! Feel free to open issues or pull requests to improve the Weather App.
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
+## Credits ❤️
+This project was created with ❤️ as a part my of coding journey.
 
-Feel free to reach out for any questions or feedback!
