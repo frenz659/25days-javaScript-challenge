@@ -14,13 +14,22 @@ A simple JavaScript Age Calculator that calculates the age based on the user's i
 
 
 🤝 Contributing
+
 Contributions are welcome! Follow these steps to contribute:
 
 ## Fork the repository
+
 Create a branch: git checkout -b feature-name
 Commit your changes: git commit -m 'Add feature'
 Push to the branch: git push origin feature-name
 Open a pull request
 
 ## 📄 License
+
 This project is licensed under the MIT License.
+
+## Credits ❤️
+
+This project was created with ❤️ as a part my of coding journey.
+
+
