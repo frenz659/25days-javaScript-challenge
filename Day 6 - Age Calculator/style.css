@@ -1,0 +1,65 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    background-color: rgb(90, 9, 219);
+}
+
+.ageApp{
+    margin: 8%;
+}
+
+.ageApp h1{
+    font-size: 50px;
+    color: #fff;
+}
+
+.ageApp h1 span{
+    font-size: 50px;
+    color: yellow;
+}
+
+.enterAge {
+    background-color: rgba(255, 255, 255, 0.4); /* White background with 80% opacity */
+    width: 400px;
+    padding: 35px;
+    border-radius: 14px;
+    display: flex;
+    justify-content: space-between;
+    margin: 40px;
+  }
+  
+
+.enterAge button{
+    color: #fff;
+    font-weight: 800;
+    border-radius: 14px;
+    outline: none;
+    border: none;
+    padding: 20px;
+    background-color: rgb(90, 9, 219 );
+}
+.enterAge button:hover{
+    background-color: black;
+    color: #fff;
+    cursor: pointer;
+}
+
+.enterAge input{
+    border: none;
+    border-radius: 14px;
+    outline: none;
+    padding: 20px;
+    font-size: 20px;
+    
+}
+
+.enterAge input:hover{
+    background-color: black;
+    color: #fff;
+}
+
+.calAge{
+    color: #fff;
+}
