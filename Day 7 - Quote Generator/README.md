@@ -1,11 +1,10 @@
 
-# Quote Generator
+# Quote Generator 📜
 
 Generate and share inspiring quotes with the Quote Generator web application.
 
-
-## Preview:
-![qg](https://github.com/piyush4878/25days-javaScript-challenge/assets/80036366/1913656a-ddd6-460c-8f23-106719a1df50)
+## Preview :
+![qg](https://github.com/piyush4878/25days-javaScript-challenge/assets/80036366/0918b247-8ade-45ac-88b7-1cbb15b6cd7d)
 
 
 ## Features
@@ -16,12 +15,9 @@ Generate and share inspiring quotes with the Quote Generator web application.
 - **Stylish Design:** Enjoy a clean and responsive user interface.
 
 
-## Usage
-
-- Click the "New Quote" button to generate a new random quote using the [Quotable API](https://api.quotable.io/).
-- Click the "Tweet" button to share the quote on Twitter using the Twitter integration.
-
-
-## License
+## License 📄
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
+## A special thank you to the [Quotable API](https://api.quotable.io/) for providing the wonderful quotes. 🙏
