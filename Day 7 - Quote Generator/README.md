@@ -19,5 +19,12 @@ Generate and share inspiring quotes with the Quote Generator web application.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+## Acknowledgments 🙏
 
-## A special thank you to the [Quotable API](https://api.quotable.io/) for providing the wonderful quotes. 🙏
+- A special thank you to the [Quotable API](https://api.quotable.io/) for providing the wonderful quotes. 🙏
+
+## Credits ❤️
+
+This project was created with ❤️ as a part my of coding journey.
+
+
