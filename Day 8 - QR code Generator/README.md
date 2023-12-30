@@ -17,3 +17,6 @@ A simple web-based QR code generator that allows users to input text or URLs and
 
 Special thanks to goQR.me for providing the QR code generation service used in this project.
 
+## Credits ❤️
+
+This project was created with ❤️ as a part my of coding journey.
