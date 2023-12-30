@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>QR Generator</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+
+<body>
+
+    <div class="container">
+        <div class="data">
+            <p>Enter your text or URL here</p>
+            <input type="text" placeholder="Text or URL" id="qr_text" required>
+
+            <span id="result_heading"></span>
+            <div class="qr_code" id="img_box">
+                <img src="" alt="" id="qr_img">
+            </div>
+            <button class="button-49" role="button" onclick="Generate_QR()">Generate QR</button>
+
+
+        </div>
+
+    </div>
+
+    <script>
+        let qrText = document.getElementById("qr_text");
+        let imgBox = document.getElementById("img_box");
+        let qrImg = document.getElementById("qr_img");
+        let resultHeading = document.getElementById("result_heading");
+
+        function Generate_QR() {
+            // Check if the input is not blank
+            if (qrText.value.trim() !== "") {
+                qrImg.src = "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=" + encodeURIComponent(qrText.value);
+                resultHeading.innerHTML = "QR code generated for: " + qrText.value;
+                qrText.value = "";  // Clear the input field for the next item
+            } else {
+                alert("Please enter text or URL before generating QR code.");
+            }
+        }
+
+
+    </script>
+
+</body>
+
+</html>
