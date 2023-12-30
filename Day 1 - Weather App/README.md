@@ -28,9 +28,6 @@ To run the Weather App locally, follow these steps:
 - **CSS:** Styling is implemented using an external CSS file (`style.css`) for enhanced visual appeal, layout, and icon integration.
 - **JavaScript:** The app logic, including API requests and data processing, is implemented in JavaScript for seamless interactivity.
 
-## Contributing 🤝
-
-Contributions are welcome! Feel free to open issues or pull requests to improve the Weather App.
 
 ## Acknowledgments 🙏
 
